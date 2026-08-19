@@ -1,0 +1,1 @@
+eni bilgisayarını kurmak için önce şirket VPN yazılımını indirmen gerekir. VPN kurulumundan sonra IT departmanından sana verilen kullanıcı adı ve şifre ile giriş yapabilirsin. Sorun yaşarsan IT destek hattını arayabilirsin.
